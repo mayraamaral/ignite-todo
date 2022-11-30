@@ -1,4 +1,4 @@
-# Ignite Feed
+# Ignite To-Do
 
 Final project from first module of Rocketseat's Ignite - React path.
 
